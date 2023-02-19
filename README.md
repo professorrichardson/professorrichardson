@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá meu nome é Richardson Schawarski Cruz</h1>
 
-<p align="center">Sou professor de pensamento computacional, programação, pensamento lóico, empreeendedorismo 🖥️</p>
+<p align="center">Sou professor de pensamento computacional, programação, pensamento lógico, empreeendedorismo 🖥️</p>
 <p>Tecnologias que serão usadas</p>
 
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 HTML
