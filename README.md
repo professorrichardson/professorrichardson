@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">👋 Olá meu nome é Richardson Schawarski Cruz</h1>
+
+<p align="center">Sou professor de pensamento computacional, programação, pensamento lóico, empreeendedorismo 🖥️</p>
+<p>Tecnologias que serão usadas</p>
+
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 HTML
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 CSS
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 JavaScript
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scratch
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 GitHub
 
 <!--
 **professorrichardson/professorrichardson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
