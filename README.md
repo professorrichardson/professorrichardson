@@ -1,7 +1,8 @@
 ![enter image description here](https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
-## 👋 Olá tudo bem?! quem fala aqui é o Richardson Schawarski
+
 <div  align="center"  width="50">
+  ## 👋 Olá tudo bem?! quem fala aqui é o Richardson Schawarski
 <img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  alt="Line"/><br>
 </div>
 🎓 **Bacharel em Sistemas de Informação**  
