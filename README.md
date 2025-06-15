@@ -1,3 +1,4 @@
+![enter image description here](https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
 ## 👋 Olá! Sou o Richardson Schawarski
 
@@ -64,15 +65,10 @@ const myTools = {
 -  <img  src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true"  width="20"  />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
   
 
-<img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif"  width="10%"  alt="ummm"/>
-<img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif"  width="10%"  alt="BGogo"/>
-<img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif"  width="10%"  alt="IvMac"/>
-
-![enter image description here](https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
-  
-<img src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif"  alt="Hello Coders"  width="100%"/>  <br>
+<img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif"  width="10%"  alt="ummm"/><img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif"  width="10%"  alt="BGogo"/><img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif"  width="10%"  alt="IvMac"/>
 
 
+<img src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif"  alt="Banner"  width="100%"/>  <br>
 <img src="http://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif"  alt="Hello Coders"  width="100%"/>  <br>
   
 
