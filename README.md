@@ -1,26 +1,36 @@
 ![enter image description here](https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
 ## 👋 Olá tudo bem?! quem fala aqui é o Richardson Schawarski
-
+<div  align="center"  width="50">
+<img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  alt="Line"/><br>
+</div>
 🎓 **Bacharel em Sistemas de Informação**  
 📐 **Licenciado em Matemática**  
 👨‍🏫 **Professor na Rede Estadual do Paraná**
----
+<div  align="center"  width="50">
+<img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  alt="Line"/><br>
+</div>
 ### 💻 Áreas de Atuação:
 - Educação em **Tecnologia**, **Matemática** e **Robótica Educacional**
 - Ensino de **Pensamento Computacional** e **Programação**
 - Projetos com **Arduino**, **Automação**, **Desenvolvimento Web** e **Banco de Dados**,**Moblie**
 - Uso de **metodologias ativas** e **ferramentas digitais** para ensino-aprendizagem.
----
+<div  align="center"  width="50">
+<img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  alt="Line"/><br>
+</div>
 ### 📚 Formação Acadêmica:
 - **Bacharelado em Sistemas de Informação**
 - **Licenciatura em Matemática**
 - **Pós-graduação em Tecnologia da Informação na Educação**
----
+<div  align="center"  width="50">
+<img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  alt="Line"/><br>
+</div>
 ### 🚀 Sobre mim:
 Sou apaixonado por educação e tecnologia. Busco constantemente criar experiências de aprendizagem que aproximem os estudantes do mundo da programação, da robótica e da resolução de problemas.
 Gosto de trabalhar com projetos práticos, incentivar o protagonismo dos alunos e explorar soluções criativas dentro e fora da sala de aula.
----
+<div  align="center"  width="50">
+<img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  alt="Line"/><br>
+</div>
 
 🌱 **Atualmente aprendendo:** novas formas de integrar tecnologia ao ensino.
 
