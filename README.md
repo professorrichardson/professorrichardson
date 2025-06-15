@@ -1,39 +1,53 @@
 ![enter image description here](https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
+<div align="center" width="50">
+  <h2>👋 Olá tudo bem?! Quem fala aqui é o Richardson Schawarski</h2>
+  <img src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Line"/><br>
+</div>
 
-<div  align="center"  width="50">
-  ## 👋 Olá tudo bem?! quem fala aqui é o Richardson Schawarski
-<img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  alt="Line"/><br>
+<p>🎓 <strong>Bacharel em Sistemas de Informação</strong><br>
+📐 <strong>Licenciado em Matemática</strong><br>
+👨‍🏫 <strong>Professor na Rede Estadual do Paraná</strong></p>
+
+<div align="center" width="50">
+  <img src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Line"/><br>
 </div>
-🎓 **Bacharel em Sistemas de Informação**  
-📐 **Licenciado em Matemática**  
-👨‍🏫 **Professor na Rede Estadual do Paraná**
-<div  align="center"  width="50">
-<img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  alt="Line"/><br>
+
+<h3>💻 Áreas de Atuação:</h3>
+<ul>
+  <li>Educação em <strong>Tecnologia</strong>, <strong>Matemática</strong> e <strong>Robótica Educacional</strong></li>
+  <li>Ensino de <strong>Pensamento Computacional</strong> e <strong>Programação</strong></li>
+  <li>Projetos com <strong>Arduino</strong>, <strong>Automação</strong>, <strong>Desenvolvimento Web</strong>, <strong>Banco de Dados</strong> e <strong>Mobile</strong></li>
+  <li>Uso de <strong>metodologias ativas</strong> e <strong>ferramentas digitais</strong> para ensino-aprendizagem.</li>
+</ul>
+
+<div align="center" width="50">
+  <img src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Line"/><br>
 </div>
-### 💻 Áreas de Atuação:
-- Educação em **Tecnologia**, **Matemática** e **Robótica Educacional**
-- Ensino de **Pensamento Computacional** e **Programação**
-- Projetos com **Arduino**, **Automação**, **Desenvolvimento Web** e **Banco de Dados**,**Moblie**
-- Uso de **metodologias ativas** e **ferramentas digitais** para ensino-aprendizagem.
-<div  align="center"  width="50">
-<img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  alt="Line"/><br>
+
+<h3>📚 Formação Acadêmica:</h3>
+<ul>
+  <li><strong>Bacharelado em Sistemas de Informação</strong></li>
+  <li><strong>Licenciatura em Matemática</strong></li>
+  <li><strong>Pós-graduação em Tecnologia da Informação na Educação</strong></li>
+</ul>
+
+<div align="center" width="50">
+  <img src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Line"/><br>
 </div>
-### 📚 Formação Acadêmica:
-- **Bacharelado em Sistemas de Informação**
-- **Licenciatura em Matemática**
-- **Pós-graduação em Tecnologia da Informação na Educação**
-<div  align="center"  width="50">
-<img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  alt="Line"/><br>
-</div>
-### 🚀 Sobre mim:
-Sou apaixonado por educação e tecnologia. Busco constantemente criar experiências de aprendizagem que aproximem os estudantes do mundo da programação, da robótica e da resolução de problemas.
+
+<h3>🚀 Sobre mim:</h3>
+<p>
+Sou apaixonado por educação e tecnologia. Busco constantemente criar experiências de aprendizagem que aproximem os estudantes do mundo da programação, da robótica e da resolução de problemas.<br>
 Gosto de trabalhar com projetos práticos, incentivar o protagonismo dos alunos e explorar soluções criativas dentro e fora da sala de aula.
-<div  align="center"  width="50">
-<img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  alt="Line"/><br>
+</p>
+
+<div align="center" width="50">
+  <img src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Line"/><br>
 </div>
 
-🌱 **Atualmente aprendendo:** novas formas de integrar tecnologia ao ensino.
+<p>🌱 <strong>Atualmente aprendendo:</strong> novas formas de integrar tecnologia ao ensino.</p>
+
 
 
 <div  align="center"  width="50">
