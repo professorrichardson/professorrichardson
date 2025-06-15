@@ -1,7 +1,30 @@
 
-<div  align="center"  width="50">
+## 👋 Olá! Sou o Richardson Schawarski
 
-  
+🎓 **Bacharel em Sistemas de Informação**  
+📐 **Licenciado em Matemática**  
+👨‍🏫 **Professor na Rede Estadual do Paraná**
+---
+### 💻 Áreas de Atuação:
+- Educação em **Tecnologia**, **Matemática** e **Robótica Educacional**
+- Ensino de **Pensamento Computacional** e **Programação**
+- Projetos com **Arduino**, **Automação**, **Desenvolvimento Web** e **Banco de Dados**
+- Uso de **metodologias ativas** e **ferramentas digitais** para ensino-aprendizagem
+---
+### 📚 Formação Acadêmica:
+- **Bacharelado em Sistemas de Informação**
+- **Licenciatura em Matemática**
+- **Pós-graduação em Tecnologia da Informação na Educação**
+---
+### 🚀 Sobre mim:
+Sou apaixonado por educação e tecnologia. Busco constantemente criar experiências de aprendizagem que aproximem os estudantes do mundo da programação, da robótica e da resolução de problemas.
+Gosto de trabalhar com projetos práticos, incentivar o protagonismo dos alunos e explorar soluções criativas dentro e fora da sala de aula.
+---
+
+🌱 **Atualmente aprendendo:** novas formas de integrar tecnologia ao ensino.
+
+
+<div  align="center"  width="50">
 
 <img src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/ProfRichardson01.gif"  alt="Hello Coders"  width="100%"/>  <br>
 
