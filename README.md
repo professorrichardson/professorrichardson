@@ -1,98 +1,356 @@
-![enter image description here](https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
+<div align="center">
 
-<div align="center" width="50">
-  <h2>👋 Olá tudo bem?! Quem fala aqui é o Richardson Schawarski</h2>
-  <img src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Line"/><br>
-</div>
+<img
+  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"
+  width="100%"
+  alt="Richardson Schawarski Cruz"
+/>
 
-<p>🎓 <strong>Bacharel em Sistemas de Informação</strong><br>
-📐 <strong>Licenciado em Matemática</strong><br>
-👨‍🏫 <strong>Professor na Rede Estadual do Paraná</strong></p>
+<br>
 
-<div align="center" width="50">
-  <img src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Line"/><br>
-</div>
+# 👋 Olá, eu sou Richardson Schawarski Cruz
 
-<h3>💻 Áreas de Atuação:</h3>
-<ul>
-  <li>Educação em <strong>Tecnologia</strong>, <strong>Matemática</strong> e <strong>Robótica Educacional</strong></li>
-  <li>Ensino de <strong>Pensamento Computacional</strong> e <strong>Programação</strong></li>
-  <li>Projetos com <strong>Arduino</strong>, <strong>Automação</strong>, <strong>Desenvolvimento Web</strong>, <strong>Banco de Dados</strong> e <strong>Mobile</strong></li>
-  <li>Uso de <strong>metodologias ativas</strong> e <strong>ferramentas digitais</strong> para ensino-aprendizagem.</li>
-</ul>
+### 💻 Desenvolvimento de Sistemas • Automação • Inteligência Artificial • Dados
 
-<div align="center" width="50">
-  <img src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Line"/><br>
-</div>
+**Analista de Tecnologia | Desenvolvedor de Sistemas | Professor e Coordenador Técnico**
 
-<h3>📚 Formação Acadêmica:</h3>
-<ul>
-  <li><strong>Bacharelado em Sistemas de Informação</strong></li>
-  <li><strong>Licenciatura em Matemática</strong></li>
-  <li><strong>Pós-graduação em Tecnologia da Informação na Educação</strong></li>
-</ul>
+<br>
 
-<div align="center" width="50">
-  <img src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Line"/><br>
-</div>
+<a href="https://www.linkedin.com/in/richardson-schawarski-9bb868440">
+  <img src="https://img.shields.io/badge/LinkedIn-Richardson%20Schawarski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-<h3>🚀 Sobre mim:</h3>
-<p>
-Sou apaixonado por educação e tecnologia. Busco constantemente criar experiências de aprendizagem que aproximem os estudantes do mundo da programação, da robótica e da resolução de problemas.<br>
-Gosto de trabalhar com projetos práticos, incentivar o protagonismo dos alunos e explorar soluções criativas dentro e fora da sala de aula.
-</p>
+<img src="https://img.shields.io/badge/Paraná-Brasil-009739?style=for-the-badge">
 
-<div align="center" width="50">
-  <img src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Line"/><br>
-</div>
+<img src="https://img.shields.io/badge/Open%20to%20Work-Tecnologia-2EA44F?style=for-the-badge">
 
-<p>🌱 <strong>Atualmente aprendendo:</strong> novas formas de integrar tecnologia ao ensino.</p>
+<br><br>
 
-
-
-<div  align="center"  width="50">
-
-<img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  alt="Line"/><br>
-
-<img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/001.gif"  alt="Workspace"/><br>
+<img
+  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
+  width="100%"
+  alt="Line"
+/>
 
 </div>
 
-<div  align="center"  width="50">
-<img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  alt="Line"/><br>
+
+## 👨‍💻 Sobre mim
+
+Sou **Bacharel em Sistemas de Informação**, com experiência em tecnologia, programação, infraestrutura e desenvolvimento de soluções.
+
+Atuo com **desenvolvimento de sistemas, automação de processos, APIs, bancos de dados, análise de dados e Inteligência Artificial aplicada à resolução de problemas reais**.
+
+Atualmente também atuo como **Professor de Tecnologia e Coordenador do Curso Técnico em Desenvolvimento de Sistemas na Rede Estadual do Paraná**, conciliando desenvolvimento, liderança técnica, gestão de projetos e formação de novos profissionais.
+
+Tenho especial interesse em transformar problemas operacionais em **soluções digitais, automações e sistemas que melhorem processos e aumentem a eficiência**.
+
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
+  width="100%"
+  alt="Line"
+/>
+
 </div>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)![semicolon](https://img.shields.io/badge/-%3A-orange)![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-  
+
+## 🚀 Áreas de atuação
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Desenvolvimento
+
+- Desenvolvimento de Sistemas
+- Desenvolvimento Web Full Stack
+- JavaScript
+- Node.js
+- React / Next.js
+- React Native
+- APIs REST
+- Integração de Sistemas
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Automação & Dados
+
+- Automação de Processos
+- Inteligência Artificial
+- Análise de Dados
+- Banco de Dados
+- Google Apps Script
+- Google Workspace
+- Linux
+- Infraestrutura de TI
+
+</td>
+</tr>
+</table>
+
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
+  width="100%"
+  alt="Line"
+/>
+
+</div>
+
+
+## 🧰 Tecnologias
+
+<div align="center">
+
+### Linguagens
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frontend & Mobile
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Ferramentas & Ambientes
+
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+</div>
+
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
+  width="100%"
+  alt="Line"
+/>
+
+</div>
+
+
+## 🏗️ Projetos em destaque
+
+### 🏫 Sistema de Gestão Escolar
+
+Sistema desenvolvido para apoiar e automatizar processos reais de gestão escolar, envolvendo organização de horários, laboratórios, professores, alunos, componentes curriculares e outras rotinas administrativas.
+
+`JavaScript` `APIs` `Banco de Dados` `Automação` `Desenvolvimento Full Stack`
+
+---
+
+### 📊 SimuSIS
+
+Plataforma para criação, organização e aplicação de simulados e avaliações, envolvendo frontend, backend, banco de dados, autenticação e regras de negócio.
+
+`JavaScript` `React` `Node.js` `MySQL` `REST API`
+
+---
+
+### 🛠️ ServiceMB
+
+Sistema para gestão de serviços técnicos, com controle de atendimentos, clientes, materiais, deslocamentos e status de execução.
+
+`React Native` `Node.js` `API REST` `MySQL` `Mobile`
+
+---
+
+### 💻 O.S System
+
+Sistema web de gerenciamento de ordens de serviço para empresas de manutenção de equipamentos eletrônicos, desenvolvido como **Trabalho de Conclusão de Curso em Sistemas de Informação**.
+
+`JavaScript` `React` `Next.js` `Node.js` `Express` `MongoDB` `Mongoose` `JWT` `REST API`
+
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
+  width="100%"
+  alt="Line"
+/>
+
+</div>
+
+
+## 🎓 Formação Acadêmica
+
+🎓 **Bacharelado em Sistemas de Informação**
+
+📐 **Licenciatura em Matemática**
+
+💻 **Especialização em Tecnologias de Informática na Educação**
+
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
+  width="100%"
+  alt="Line"
+/>
+
+</div>
+
+
+## 👨‍🏫 Tecnologia & Educação
+
+Minha atuação na educação complementa minha experiência profissional em tecnologia.
+
+Trabalho com:
+
+- Desenvolvimento de Sistemas
+- Programação
+- Banco de Dados
+- Pensamento Computacional
+- Ciência de Dados
+- Inteligência Artificial
+- Robótica
+- Arduino
+- Automação
+- Desenvolvimento Web e Mobile
+- Orientação de projetos
+- Liderança e coordenação técnica
+
+Acredito que ensinar tecnologia também exige compreender como ela funciona na prática, por isso procuro trabalhar constantemente com **problemas reais, desenvolvimento de projetos e construção de soluções**.
+
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
+  width="100%"
+  alt="Line"
+/>
+
+</div>
+
+
+## 🧑‍💻 Um pouco do meu workspace
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/001.gif"
+  alt="Workspace"
+/>
+
+</div>
+
 
 ```javascript
-class  About  extends  Me {
+class About extends Me {
 
-const myTools = {
+  const profile = {
 
-"ProgramingLanguages" : { "Node", "Python", "React", "Javascript", "Java", "C++", "PHP" },
+    role: [
+      "Technology Analyst",
+      "Systems Developer",
+      "Technical Coordinator"
+    ],
 
-"OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    programming: [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "Next.js",
+      "React Native",
+      "Python",
+      "Java",
+      "C",
+      "C++"
+    ],
 
-"Database" : { "Firebase", "Sqlite","MySql" },
+    databases: [
+      "MySQL",
+      "MongoDB",
+      "SQLite"
+    ],
 
-"Editors" : { "Vscode", "Xcode", "Sublime", },
+    technologies: [
+      "REST APIs",
+      "Git",
+      "GitHub",
+      "Linux",
+      "Google Apps Script",
+      "Google Workspace",
+      "Automation",
+      "Artificial Intelligence",
+      "Data Analysis"
+    ],
 
-"Platforms" : { "Mac", "GNU/Linux", "Windows" },
-
-"OtherTools" : { "Git", "Figma", "Canva" }
-
-};
+    interests: [
+      "Systems Development",
+      "Process Automation",
+      "Artificial Intelligence",
+      "Data",
+      "Software Architecture",
+      "Technology Leadership"
+    ]
+  };
 
 }
+<div align="center">
 
-```  
+<img
+  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif"
+  width="10%"
+  alt="Developer"
+/>
+<img
+  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif"
+  width="10%"
+  alt="Developer"
+/>
+<img
+  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif"
+  width="10%"
+  alt="Developer"
+/>
 
-<img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif"  width="10%"  alt="ummm"/><img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif"  width="10%"  alt="BGogo"/><img  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif"  width="10%"  alt="IvMac"/>
 
-<img src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif"  alt="Banner"  width="100%"/>  <br>
-<img src="http://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif"  alt="Hello Coders"  width="100%"/>  <br>
-  
 
+<img
+  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif"
+  width="100%"
+  alt="Banner"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif"
+  width="100%"
+  alt="Hello Coders"
+/>
 </div>
+```
