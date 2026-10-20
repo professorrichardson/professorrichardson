@@ -346,43 +346,7 @@ class About extends Me {
 }
 ```
 
-<div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif"
-  width="10%"
-  alt="Developer"
-/>
-
-<img
-  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif"
-  width="10%"
-  alt="Developer"
-/>
-
-<img
-  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif"
-  width="10%"
-  alt="Developer"
-/>
-
-<br><br>
-
-<img
-  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif"
-  width="100%"
-  alt="Banner"
-/>
-
-<br><br>
-
-<img
-  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif"
-  width="100%"
-  alt="Hello Coders"
-/>
-
-</div>
 
 <div align="center">
 
