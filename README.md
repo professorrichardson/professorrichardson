@@ -34,7 +34,6 @@
 
 </div>
 
-
 ## 👨‍💻 Sobre mim
 
 Sou **Bacharel em Sistemas de Informação**, com experiência em tecnologia, programação, infraestrutura e desenvolvimento de soluções.
@@ -45,7 +44,6 @@ Atualmente também atuo como **Professor de Tecnologia e Coordenador do Curso T�
 
 Tenho especial interesse em transformar problemas operacionais em **soluções digitais, automações e sistemas que melhorem processos e aumentem a eficiência**.
 
-
 <div align="center">
 
 <img
@@ -55,7 +53,6 @@ Tenho especial interesse em transformar problemas operacionais em **soluções d
 />
 
 </div>
-
 
 ## 🚀 Áreas de atuação
 
@@ -69,12 +66,14 @@ Tenho especial interesse em transformar problemas operacionais em **soluções d
 - Desenvolvimento Web Full Stack
 - JavaScript
 - Node.js
-- React / Next.js
+- React
+- Next.js
 - React Native
 - APIs REST
 - Integração de Sistemas
 
 </td>
+
 <td width="50%" valign="top">
 
 ### ⚙️ Automação & Dados
@@ -92,7 +91,6 @@ Tenho especial interesse em transformar problemas operacionais em **soluções d
 </tr>
 </table>
 
-
 <div align="center">
 
 <img
@@ -102,7 +100,6 @@ Tenho especial interesse em transformar problemas operacionais em **soluções d
 />
 
 </div>
-
 
 ## 🧰 Tecnologias
 
@@ -148,7 +145,6 @@ Tenho especial interesse em transformar problemas operacionais em **soluções d
 
 </div>
 
-
 <div align="center">
 
 <img
@@ -159,12 +155,13 @@ Tenho especial interesse em transformar problemas operacionais em **soluções d
 
 </div>
 
-
 ## 🏗️ Projetos em destaque
 
 ### 🏫 Sistema de Gestão Escolar
 
-Sistema desenvolvido para apoiar e automatizar processos reais de gestão escolar, envolvendo organização de horários, laboratórios, professores, alunos, componentes curriculares e outras rotinas administrativas.
+Sistema desenvolvido para apoiar e automatizar processos reais de gestão escolar, incluindo organização de horários, laboratórios, professores, alunos, componentes curriculares e outras rotinas administrativas.
+
+**Tecnologias e conceitos:**
 
 `JavaScript` `APIs` `Banco de Dados` `Automação` `Desenvolvimento Full Stack`
 
@@ -174,6 +171,8 @@ Sistema desenvolvido para apoiar e automatizar processos reais de gestão escola
 
 Plataforma para criação, organização e aplicação de simulados e avaliações, envolvendo frontend, backend, banco de dados, autenticação e regras de negócio.
 
+**Tecnologias e conceitos:**
+
 `JavaScript` `React` `Node.js` `MySQL` `REST API`
 
 ---
@@ -182,16 +181,21 @@ Plataforma para criação, organização e aplicação de simulados e avaliaçõ
 
 Sistema para gestão de serviços técnicos, com controle de atendimentos, clientes, materiais, deslocamentos e status de execução.
 
+**Tecnologias e conceitos:**
+
 `React Native` `Node.js` `API REST` `MySQL` `Mobile`
 
 ---
 
 ### 💻 O.S System
 
-Sistema web de gerenciamento de ordens de serviço para empresas de manutenção de equipamentos eletrônicos, desenvolvido como **Trabalho de Conclusão de Curso em Sistemas de Informação**.
+Sistema web para gerenciamento de ordens de serviço em empresas de manutenção de equipamentos eletrônicos, desenvolvido como **Trabalho de Conclusão de Curso do Bacharelado em Sistemas de Informação**.
+
+O sistema foi desenvolvido para organizar clientes, equipamentos, defeitos relatados, serviços, orçamentos e usuários, utilizando arquitetura cliente-servidor e autenticação com diferentes níveis de acesso.
+
+**Tecnologias utilizadas:**
 
 `JavaScript` `React` `Next.js` `Node.js` `Express` `MongoDB` `Mongoose` `JWT` `REST API`
-
 
 <div align="center">
 
@@ -202,7 +206,6 @@ Sistema web de gerenciamento de ordens de serviço para empresas de manutenção
 />
 
 </div>
-
 
 ## 🎓 Formação Acadêmica
 
@@ -212,7 +215,6 @@ Sistema web de gerenciamento de ordens de serviço para empresas de manutenção
 
 💻 **Especialização em Tecnologias de Informática na Educação**
 
-
 <div align="center">
 
 <img
@@ -222,7 +224,6 @@ Sistema web de gerenciamento de ordens de serviço para empresas de manutenção
 />
 
 </div>
-
 
 ## 👨‍🏫 Tecnologia & Educação
 
@@ -233,18 +234,18 @@ Trabalho com:
 - Desenvolvimento de Sistemas
 - Programação
 - Banco de Dados
-- Pensamento Computacional
+- Desenvolvimento Web
+- Desenvolvimento Mobile
 - Ciência de Dados
 - Inteligência Artificial
+- Pensamento Computacional
 - Robótica
 - Arduino
 - Automação
-- Desenvolvimento Web e Mobile
 - Orientação de projetos
 - Liderança e coordenação técnica
 
-Acredito que ensinar tecnologia também exige compreender como ela funciona na prática, por isso procuro trabalhar constantemente com **problemas reais, desenvolvimento de projetos e construção de soluções**.
-
+Acredito que ensinar tecnologia também exige compreender como ela funciona na prática. Por isso, procuro trabalhar constantemente com **problemas reais, desenvolvimento de projetos e construção de soluções**.
 
 <div align="center">
 
@@ -256,6 +257,28 @@ Acredito que ensinar tecnologia também exige compreender como ela funciona na p
 
 </div>
 
+## 🎯 Interesses profissionais
+
+<div align="center">
+
+![Systems Development](https://img.shields.io/badge/Systems_Development-181717?style=for-the-badge&logo=github&logoColor=white)
+![Automation](https://img.shields.io/badge/Process_Automation-02569B?style=for-the-badge)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge)
+![Data](https://img.shields.io/badge/Data_Analysis-4285F4?style=for-the-badge)
+![APIs](https://img.shields.io/badge/API_Integration-009688?style=for-the-badge)
+![Technology](https://img.shields.io/badge/Technology-000000?style=for-the-badge)
+
+</div>
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
+  width="100%"
+  alt="Line"
+/>
+
+</div>
 
 ## 🧑‍💻 Um pouco do meu workspace
 
@@ -268,59 +291,61 @@ Acredito que ensinar tecnologia também exige compreender como ela funciona na p
 
 </div>
 
-
 ```javascript
 class About extends Me {
+  constructor() {
+    super();
 
-  const profile = {
+    this.profile = {
+      role: [
+        "Technology Analyst",
+        "Systems Developer",
+        "Technical Coordinator"
+      ],
 
-    role: [
-      "Technology Analyst",
-      "Systems Developer",
-      "Technical Coordinator"
-    ],
+      programming: [
+        "JavaScript",
+        "Node.js",
+        "React",
+        "Next.js",
+        "React Native",
+        "Python",
+        "Java",
+        "C",
+        "C++"
+      ],
 
-    programming: [
-      "JavaScript",
-      "Node.js",
-      "React",
-      "Next.js",
-      "React Native",
-      "Python",
-      "Java",
-      "C",
-      "C++"
-    ],
+      databases: [
+        "MySQL",
+        "MongoDB",
+        "SQLite"
+      ],
 
-    databases: [
-      "MySQL",
-      "MongoDB",
-      "SQLite"
-    ],
+      technologies: [
+        "REST APIs",
+        "Git",
+        "GitHub",
+        "Linux",
+        "Google Apps Script",
+        "Google Workspace",
+        "Automation",
+        "Artificial Intelligence",
+        "Data Analysis"
+      ],
 
-    technologies: [
-      "REST APIs",
-      "Git",
-      "GitHub",
-      "Linux",
-      "Google Apps Script",
-      "Google Workspace",
-      "Automation",
-      "Artificial Intelligence",
-      "Data Analysis"
-    ],
-
-    interests: [
-      "Systems Development",
-      "Process Automation",
-      "Artificial Intelligence",
-      "Data",
-      "Software Architecture",
-      "Technology Leadership"
-    ]
-  };
-
+      interests: [
+        "Systems Development",
+        "Process Automation",
+        "Artificial Intelligence",
+        "Data",
+        "Software Architecture",
+        "Technology Leadership"
+      ]
+    };
+  }
 }
+```
+
 <div align="center">
 
 <img
@@ -328,18 +353,20 @@ class About extends Me {
   width="10%"
   alt="Developer"
 />
+
 <img
   src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif"
   width="10%"
   alt="Developer"
 />
+
 <img
   src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif"
   width="10%"
   alt="Developer"
 />
 
-
+<br><br>
 
 <img
   src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif"
@@ -347,10 +374,36 @@ class About extends Me {
   alt="Banner"
 />
 
+<br><br>
+
 <img
   src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif"
   width="100%"
   alt="Hello Coders"
 />
+
 </div>
-```
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/professorrichardson/professorrichardson/refs/heads/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
+  width="100%"
+  alt="Line"
+/>
+
+</div>
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/richardson-schawarski-9bb868440">
+  <img src="https://img.shields.io/badge/LinkedIn-Richardson%20Schawarski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/professorrichardson">
+  <img src="https://img.shields.io/badge/GitHub-professorrichardson-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
